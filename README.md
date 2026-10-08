@@ -122,6 +122,12 @@ O projeto está sendo preparado para publicação no Streamlit Community Cloud.
 - UCI Machine Learning Repository. *Heart Failure Clinical Records*. https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records
 - Souza, V. S. e Lima, D. A. *Cardiac Disease Diagnosis Using K-Nearest Neighbor Algorithm: A Study on Heart Failure Clinical Records Dataset*. [Artigo científico](https://ojs.bonviewpress.com/index.php/AIA/article/view/2045).
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-Projeto acadêmico desenvolvido para fins de estudo de Inteligência Artificial, classificação de dados e desenvolvimento de aplicações web com Python.
+- **Leanderson Ferreira**
+- **Maria Clara**
+
+**Instituição:** Instituto Federal de Pernambuco (IFPE) — Campus Jaboatão dos Guararapes  
+**Curso:** Análise e Desenvolvimento de Sistemas (ADS)
+
+Projeto acadêmico desenvolvido em dupla para fins de estudo de Inteligência Artificial, classificação de dados e desenvolvimento de aplicações web com Python.
