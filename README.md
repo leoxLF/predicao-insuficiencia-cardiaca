@@ -124,8 +124,8 @@ O projeto está sendo preparado para publicação no Streamlit Community Cloud.
 
 ## 👨‍💻 Autores
 
-- **[Leanderson Ferreira](https://github.com/leoxLF)**
-- **[Maria Clara](https://github.com/MariCPs)**
+- **[Leanderson Ferreira](https://github.com/Leandersonleox)**
+- **[Maria Clara](https://github.com/Clara-ps)**
 
 **Instituição:** Instituto Federal de Pernambuco (IFPE) — Campus Jaboatão dos Guararapes  
 **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
